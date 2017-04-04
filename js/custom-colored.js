@@ -14,9 +14,8 @@ var config_tree = {
             name: "Amit Mishra",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I043155"
+        image: "./images/I043155.jpg"
     },
-
     child1 = {
         parent: mainParent,
         HTMLclass: 'green-top50',
@@ -24,7 +23,7 @@ var config_tree = {
             name: "Rohit Negi",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I064952"
+        image: "./images/I064952.jpg"
     },
     child2 = {
         parent: mainParent,
@@ -33,7 +32,7 @@ var config_tree = {
             name: "Shashank, Kulshrestha",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I331657"
+        image: "./images/I331657.jpg"
     },
     child11 = {
         parent: child1,
@@ -41,7 +40,7 @@ var config_tree = {
             name: "Jayendra kartheek, Garnimetta",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I329692"
+        image: "./images/I329692.jpg"
     },
     child12 = {
         parent: child1,
@@ -49,7 +48,7 @@ var config_tree = {
             name: "Sudhanshu, Yadav",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I330822"
+        image: "./images/I330822.jpg"
     },
     child21 = {
         parent: child2,
@@ -57,7 +56,7 @@ var config_tree = {
             name: "Anurag",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I311168"
+        image: "./images/I311168.jpg"
     },
     child22 = {
         parent: child2,
@@ -65,7 +64,7 @@ var config_tree = {
             name: "Achint Kumar, Rathor",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I331047"
+        image: "./images/I331047.jpg"
     },
     child111 = {
         parent: child11,
@@ -73,7 +72,7 @@ var config_tree = {
             name: "Sreejith, Mohan Menon",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I043373"
+        image: "./images/I043373.jpg"
     },
     child112 = {
         parent: child11,
@@ -81,7 +80,7 @@ var config_tree = {
             name: "Thejes, A.G",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I060438"
+        image: "./images/I060438.jpg"
     },
     child211 = {
         parent: child21,
@@ -89,7 +88,7 @@ var config_tree = {
             name: "Sameer, Menon",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I331652"
+        image: "./images/I331652.jpg"
     },
     child212 = {
         parent: child21,
@@ -97,7 +96,7 @@ var config_tree = {
             name: "Kriti, Srivastava",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I331382"
+        image: "./images/I331382.jpg"
     },
     child221 = {
         parent: child22,
@@ -105,7 +104,7 @@ var config_tree = {
             name: "Vipin, Shivashankaran",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I030005"
+        image: "./images/I030005.jpg"
     },
     child222 = {
         parent: child22,
@@ -113,7 +112,7 @@ var config_tree = {
             name: "Kavya, Jampani",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I331402"
+        image: "./images/I331402.jpg"
     },
 
     child2111 = {
@@ -122,7 +121,7 @@ var config_tree = {
             name: "Pramod, Indiresh",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I053023"
+        image: "./images/I053023.jpg"
     },
 
     child2112 = {
@@ -131,7 +130,7 @@ var config_tree = {
             name: "Priya, Powar",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I331407"
+        image: "./images/I331407.jpg"
     },
     child21111 = {
         parent: child2111,
@@ -139,7 +138,7 @@ var config_tree = {
             name: "Abhiram, Ravikumar",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I333032"
+        image: "./images/I333032.jpg"
     },
     child21112 = {
         parent: child2111,
@@ -147,7 +146,7 @@ var config_tree = {
             name: "Gouri, Shah",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I331129"
+        image: "./images/I331129.jpg"
     },
 
     child211111 = {
@@ -156,7 +155,7 @@ var config_tree = {
             name: "Debasish, Panda",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I034834"
+        image: "./images/I034834.jpg"
     },
     child211112 = {
         parent: child21111,
@@ -164,7 +163,7 @@ var config_tree = {
             name: "Mahesh, Gopalan",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I014260"
+        image: "./images/I014260.jpg"
     },
     child2111121 = {
         parent: child211112,
@@ -172,7 +171,7 @@ var config_tree = {
             name: "Samyak, Jain",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I331420"
+        image: "./images/I331420.jpg"
     },
     child2111122 = {
         parent: child211112,
@@ -180,7 +179,7 @@ var config_tree = {
             name: "Gagan, K",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I331412"
+        image: "./images/I331412.jpg"
     },
     child2221 = {
         parent: child222,
@@ -188,7 +187,7 @@ var config_tree = {
             name: "Sourabh, Kulkarni",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I331582"
+        image: "./images/I331582.jpg"
     },
     child2222 = {
         parent: child222,
@@ -196,7 +195,7 @@ var config_tree = {
             name: "Vinayak Nath, Singh",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I066990"
+        image: "./images/I066990.jpg"
     },
     child21121 = {
         parent: child2112,
@@ -204,7 +203,7 @@ var config_tree = {
             name: "Kulkarni, Shruti",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I331337"
+        image: "./images/I331337.jpg"
     },
     child21122 = {
         parent: child2112,
@@ -212,7 +211,7 @@ var config_tree = {
             name: "Agarwal, Vaibhav",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I065600"
+        image: "./images/I065600.jpg"
     },
     child211211 = {
         parent: child21121,
@@ -220,7 +219,7 @@ var config_tree = {
             name: "Shalini, Jha",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I069231"
+        image: "./images/I069231.jpg"
     },
     child211212 = {
         parent: child21121,
@@ -228,7 +227,7 @@ var config_tree = {
             name: "Shweta, Johari",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I332758"
+        image: "./images/I332758.jpg"
     },
     child2121 = {
         parent: child212,
@@ -236,7 +235,7 @@ var config_tree = {
             name: "Jemma, Vince",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I332721"
+        image: "./images/I332721.jpg"
     },
     child2122 = {
         parent: child212,
@@ -244,7 +243,7 @@ var config_tree = {
             name: "Rishabh, Gour",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I330796"
+        image: "./images/I330796.jpg"
     },
     child21221 = {
         parent: child2122,
@@ -252,7 +251,7 @@ var config_tree = {
             name: "Amitha, Srinivasan",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I304332"
+        image: "./images/I304332.jpg"
     },
     child212211 = {
         parent: child21221,
@@ -260,7 +259,7 @@ var config_tree = {
             name: "Bhuvana, Raju",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I331594"
+        image: "./images/I331594.jpg"
     },
     child212212 = {
         parent: child21221,
@@ -268,7 +267,7 @@ var config_tree = {
             name: "Alik, Garai",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I332308"
+        image: "./images/I332308.jpg"
     },
     child2122121 = {
         parent: child212212,
@@ -276,7 +275,7 @@ var config_tree = {
             name: "Shivakumar",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I329330"
+        image: "./images/I329330.jpg"
     },
     child2122122 = {
         parent: child212212,
@@ -284,7 +283,7 @@ var config_tree = {
             name: "Vishwarajsinh, Sodha",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I332723"
+        image: "./images/I332723.jpg"
     },
     child21222 = {
         parent: child2122,
@@ -292,7 +291,7 @@ var config_tree = {
             name: "Shivani, Kandavelu",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I330821"
+        image: "./images/I330821.jpg"
     },
     child212221 = {
         parent: child21222,
@@ -300,7 +299,7 @@ var config_tree = {
             name: "Shiv Shankar, S.S.V",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I330820"
+        image: "./images/I330820.jpg"
     },
     child2122211 = {
         parent: child212221,
@@ -308,7 +307,7 @@ var config_tree = {
             name: "Keerthi Abinesh, Ravikumar",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I332211"
+        image: "./images/I332211.jpg"
     },
     child2122212 = {
         parent: child212221,
@@ -316,7 +315,7 @@ var config_tree = {
             name: "Shiv Shankar, S.S.V",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I330820"
+        image: "./images/I330820.jpg"
     },
     child212222 = {
         parent: child21222,
@@ -324,7 +323,7 @@ var config_tree = {
             name: "Narendran, N.V",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I331181"
+        image: "./images/I331181.jpg"
     },
     child2122221 = {
         parent: child212222,
@@ -332,7 +331,7 @@ var config_tree = {
             name: "Priyanka H, Mallesh",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I336217"
+        image: "./images/I336217.jpg"
     },
     child2122222 = {
         parent: child212222,
@@ -340,7 +339,7 @@ var config_tree = {
             name: "Saranya, Nagabhushan",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/C5158471"
+        image: "./images/C5158471.jpg"
     },
     child21211 = {
         parent: child2121,
@@ -348,7 +347,7 @@ var config_tree = {
             name: "Vigneshwari, Sambandan",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I332724"
+        image: "./images/I332724.jpg"
     },
     child21212 = {
         parent: child2121,
@@ -356,7 +355,7 @@ var config_tree = {
             name: "Anagha, Ravinarayan",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I331394"
+        image: "./images/I331394.jpg"
     },
     child212121 = {
         parent: child21212,
@@ -364,7 +363,7 @@ var config_tree = {
             name: "Sindhu, Kishore",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I331403"
+        image: "./images/I331403.jpg"
     },
     child212122 = {
         parent: child21212,
@@ -372,7 +371,7 @@ var config_tree = {
             name: "Sindhu, Janardhana",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I071993"
+        image: "./images/I071993.jpg"
     },
     child2121221 = {
         parent: child212122,
@@ -380,7 +379,7 @@ var config_tree = {
             name: "Mangkhankhual, Hangshing",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I329854"
+        image: "./images/I329854.jpg"
     },
     child21212211 = {
         parent: child2121221,
@@ -388,7 +387,7 @@ var config_tree = {
             name: "Aashka, Shah",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I324332"
+        image: "./images/I324332.jpg"
     },
     child2121222 = {
         parent: child212122,
@@ -396,7 +395,7 @@ var config_tree = {
             name: "Preethi, Ramamourthy",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I331397"
+        image: "./images/I331397.jpg"
     },
     child21212221 = {
         parent: child2121222,
@@ -404,7 +403,7 @@ var config_tree = {
             name: "Vighneswaran, CE",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I049143"
+        image: "./images/I049143.jpg"
     },
     child21212222 = {
         parent: child2121222,
@@ -412,7 +411,7 @@ var config_tree = {
             name: "Madhu, GC",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I049670"
+        image: "./images/I049670.jpg"
     },
     child2121211 = {
         parent: child212121,
@@ -420,7 +419,7 @@ var config_tree = {
             name: "Sowmya, BG",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I311155"
+        image: "./images/I311155.jpg"
     },
     child21212111 = {
         parent: child2121211,
@@ -428,7 +427,7 @@ var config_tree = {
             name: "Abhishek, P.G.",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I311001"
+        image: "./images/I311001.jpg"
     },
     child21212112 = {
         parent: child2121211,
@@ -436,7 +435,7 @@ var config_tree = {
             name: "Nikhil, Hirve",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I331388"
+        image: "./images/I331388.jpg"
     },
     child2121212 = {
         parent: child212121,
@@ -444,7 +443,7 @@ var config_tree = {
             name: "Rimi, DE",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I311155"
+        image: "./images/I311155.jpg"
     },
     child21212121 = {
         parent: child2121212,
@@ -452,7 +451,7 @@ var config_tree = {
             name: "Pavan, Chittanpalli Vasudevan",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I032875"
+        image: "./images/I032875.jpg"
     },
     child212121211 = {
         parent: child21212121,
@@ -460,7 +459,7 @@ var config_tree = {
             name: "Karthik, M.K.",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I032429"
+        image: "./images/I032429.jpg"
     },
     child212121212 = {
         parent: child21212121,
@@ -468,7 +467,7 @@ var config_tree = {
             name: "Shwetha Monappa, Nairy",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I062039"
+        image: "./images/I062039.jpg"
     },
     child21212122 = {
         parent: child2121212,
@@ -476,7 +475,7 @@ var config_tree = {
             name: "Kanhu, Ranjan Padhi",
             title: "Started Writing Blog"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I052877"
+        image: "./images/I052877.jpg"
     },
     chart_tree_config = [
         config_tree,
@@ -530,7 +529,7 @@ var config_collapse = {
         text: {
             title: "Amit Mishra"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I043155"
+        image: "./images/I043155.jpg"
     },
 
     child1 = {
@@ -539,7 +538,7 @@ var config_collapse = {
         text:{
             title: "Rohit Negi",
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I064952"
+        image: "./images/I064952.jpg"
     },
     child2 = {
         parent: mainParent,
@@ -547,77 +546,77 @@ var config_collapse = {
         text:{
             title: "Shashank, Kulshrestha"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I331657"
+        image: "./images/I331657.jpg"
     },
     child11 = {
         parent: child1,
         text:{
             title: "Jayendra kartheek, Garnimetta"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I329692"
+        image: "./images/I329692.jpg"
     },
     child12 = {
         parent: child1,
         text:{
             title: "Sudhanshu, Yadav"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I330822"
+        image: "./images/I330822.jpg"
     },
     child21 = {
         parent: child2,
         text:{
             title: "Anurag"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I311168"
+        image: "./images/I311168.jpg"
     },
     child22 = {
         parent: child2,
         text:{
             title: "Achint Kumar, Rathor"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I331047"
+        image: "./images/I331047.jpg"
     },
     child111 = {
         parent: child11,
         text:{
             title: "Sreejith, Mohan Menon"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I043373"
+        image: "./images/I043373.jpg"
     },
     child112 = {
         parent: child11,
         text:{
             title: "Thejes, A.G"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I060438"
+        image: "./images/I060438.jpg"
     },
     child211 = {
         parent: child21,
         text:{
             title: "Sameer, Menon"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I331652"
+        image: "./images/I331652.jpg"
     },
     child212 = {
         parent: child21,
         text:{
             title: "Kriti, Srivastava"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I331382"
+        image: "./images/I331382.jpg"
     },
     child221 = {
         parent: child22,
         text:{
             title: "Vipin, Shivashankaran"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I030005"
+        image: "./images/I030005.jpg"
     },
     child222 = {
         parent: child22,
         text:{
             title: "Kavya, Jampani"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I331402"
+        image: "./images/I331402.jpg"
     },
 
     child2111 = {
@@ -625,7 +624,7 @@ var config_collapse = {
         text:{
             title: "Pramod, Indiresh"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I053023"
+        image: "./images/I053023.jpg"
     },
 
     child2112 = {
@@ -633,21 +632,21 @@ var config_collapse = {
         text:{
             title: "Priya, Powar"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I331407"
+        image: "./images/I331407.jpg"
     },
     child21111 = {
         parent: child2111,
         text:{
             title: "Abhiram, Ravikumar"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I333032"
+        image: "./images/I333032.jpg"
     },
     child21112 = {
         parent: child2111,
         text:{
             title: "Gouri, Shah"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I331129"
+        image: "./images/I331129.jpg"
     },
 
     child211111 = {
@@ -655,287 +654,287 @@ var config_collapse = {
         text:{
             title: "Debasish, Panda"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I034834"
+        image: "./images/I034834.jpg"
     },
     child211112 = {
         parent: child21111,
         text:{
             title: "Mahesh, Gopalan"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I014260"
+        image: "./images/I014260.jpg"
     },
     child2111121 = {
         parent: child211112,
         text:{
             title: "Samyak, Jain"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I331420"
+        image: "./images/I331420.jpg"
     },
     child2111122 = {
         parent: child211112,
         text:{
             title: "Gagan, K"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I331412"
+        image: "./images/I331412.jpg"
     },
     child2221 = {
         parent: child222,
         text:{
             title: "Sourabh, Kulkarni"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I331582"
+        image: "./images/I331582.jpg"
     },
     child2222 = {
         parent: child222,
         text:{
             title: "Vinayak Nath, Singh"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I066990"
+        image: "./images/I066990.jpg"
     },
     child21121 = {
         parent: child2112,
         text:{
             title: "Kulkarni, Shruti"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I331337"
+        image: "./images/I331337.jpg"
     },
     child21122 = {
         parent: child2112,
         text:{
             title: "Agarwal, Vaibhav"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I065600"
+        image: "./images/I065600.jpg"
     },
     child211211 = {
         parent: child21121,
         text:{
             title: "Shalini, Jha"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I069231"
+        image: "./images/I069231.jpg"
     },
     child211212 = {
         parent: child21121,
         text:{
             title: "Shweta, Johari"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I332758"
+        image: "./images/I332758.jpg"
     },
     child2121 = {
         parent: child212,
         text:{
             title: "Jemma, Vince"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I332721"
+        image: "./images/I332721.jpg"
     },
     child2122 = {
         parent: child212,
         text:{
             title: "Rishabh, Gour"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I330796"
+        image: "./images/I330796.jpg"
     },
     child21221 = {
         parent: child2122,
         text:{
             title: "Amitha, Srinivasan"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I304332"
+        image: "./images/I304332.jpg"
     },
     child212211 = {
         parent: child21221,
         text:{
             title: "Bhuvana, Raju"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I331594"
+        image: "./images/I331594.jpg"
     },
     child212212 = {
         parent: child21221,
         text:{
             title: "Alik, Garai"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I332308"
+        image: "./images/I332308.jpg"
     },
     child2122121 = {
         parent: child212212,
         text:{
             title: "Shivakumar"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I329330"
+        image: "./images/I329330.jpg"
     },
     child2122122 = {
         parent: child212212,
         text:{
             title: "Vishwarajsinh, Sodha"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I332723"
+        image: "./images/I332723.jpg"
     },
     child21222 = {
         parent: child2122,
         text:{
             title: "Shivani, Kandavelu"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I330821"
+        image: "./images/I330821.jpg"
     },
     child212221 = {
         parent: child21222,
         text:{
             title: "Shiv Shankar, S.S.V"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I330820"
+        image: "./images/I330820.jpg"
     },
     child2122211 = {
         parent: child212221,
         text:{
             title: "Keerthi Abinesh, Ravikumar"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I332211"
+        image: "./images/I332211.jpg"
     },
     child2122212 = {
         parent: child212221,
         text:{
             title: "Shiv Shankar, S.S.V"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I330820"
+        image: "./images/I330820.jpg"
     },
     child212222 = {
         parent: child21222,
         text:{
             title: "Narendran, N.V"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I331181"
+        image: "./images/I331181.jpg"
     },
     child2122221 = {
         parent: child212222,
         text:{
             title: "Priyanka H, Mallesh"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I336217"
+        image: "./images/I336217.jpg"
     },
     child2122222 = {
         parent: child212222,
         text:{
             title: "Saranya, Nagabhushan"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/C5158471"
+        image: "./images/C5158471.jpg"
     },
     child21211 = {
         parent: child2121,
         text:{
             title: "Vigneshwari, Sambandan"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I332724"
+        image: "./images/I332724.jpg"
     },
     child21212 = {
         parent: child2121,
         text:{
             title: "Anagha, Ravinarayan"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I331394"
+        image: "./images/I331394.jpg"
     },
     child212121 = {
         parent: child21212,
         text:{
             title: "Sindhu, Kishore"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I331403"
+        image: "./images/I331403.jpg"
     },
     child212122 = {
         parent: child21212,
         text:{
             title: "Sindhu, Janardhana"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I071993"
+        image: "./images/I071993.jpg"
     },
     child2121221 = {
         parent: child212122,
         text:{
             title: "Mangkhankhual, Hangshing"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I329854"
+        image: "./images/I329854.jpg"
     },
     child21212211 = {
         parent: child2121221,
         text:{
             title: "Aashka, Shah"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I324332"
+        image: "./images/I324332.jpg"
     },
     child2121222 = {
         parent: child212122,
         text:{
             title: "Preethi, Ramamourthy"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I331397"
+        image: "./images/I331397.jpg"
     },
     child21212221 = {
         parent: child2121222,
         text:{
             title: "Vighneswaran, CE"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I049143"
+        image: "./images/I049143.jpg"
     },
     child21212222 = {
         parent: child2121222,
         text:{
             title: "Madhu, GC"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I049670"
+        image: "./images/I049670.jpg"
     },
     child2121211 = {
         parent: child212121,
         text:{
             title: "Sowmya, BG"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I311155"
+        image: "./images/I311155.jpg"
     },
     child21212111 = {
         parent: child2121211,
         text:{
             title: "Abhishek, P.G."
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I311001"
+        image: "./images/I311001.jpg"
     },
     child21212112 = {
         parent: child2121211,
         text:{
             title: "Nikhil, Hirve"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I331388"
+        image: "./images/I331388.jpg"
     },
     child2121212 = {
         parent: child212121,
         text:{
             title: "Rimi, DE"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I311155"
+        image: "./images/I311155.jpg"
     },
     child21212121 = {
         parent: child2121212,
         text:{
             title: "Pavan, Chittanpalli Vasudevan"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I032875"
+        image: "./images/I032875.jpg"
     },
     child212121211 = {
         parent: child21212121,
         text:{
             title: "Karthik, M.K."
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I032429"
+        image: "./images/I032429.jpg"
     },
     child212121212 = {
         parent: child21212121,
         text:{
             title: "Shwetha Monappa, Nairy"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I062039"
+        image: "./images/I062039.jpg"
     },
     child21212122 = {
         parent: child2121212,
         text:{
             title: "Kanhu, Ranjan Padhi"
         },
-        image: "http://avatars.wdf.sap.corp:1080/avatar/I052877"
+        image: "./images/I052877.jpg"
     },
     chart_collapse_config = [config_collapse, mainParent, child1, child2,
         child11, child12,
@@ -968,4 +967,4 @@ var config_collapse = {
         child2122222, child2122221
     ];
 /*connector not updated */    
-var config_connector={container:"#connector-data",levelSeparation:45,rootOrientation:"WEST",nodeAlign:"BOTTOM",connectors:{type:"step",style:{"stroke-width":2}},node:{HTMLclass:"big-commpany"}},mainParent={HTMLclass:"green-bottom50",text:{name:"Amit Mishra",title:"Started Writing Blog"}},child1={parent:mainParent,pseudo:!0,connectors:{style:{stroke:"#00CE67"}},text:{name:"Rohit Negi",title:"Started Writing Blog"}},child2={parent:mainParent,pseudo:!0,connectors:{style:{stroke:"#00CE67"}},text:{name:"Shashank, Kulshrestha",title:"Started Writing Blog"}},child11={parent:child1,text:{name:"Jayendra kartheek, Garnimetta",title:"Started Writing Blog"}},child12={parent:child1,text:{name:"Sudhanshu, Yadav",title:"Started Writing Blog"}},child21={parent:child2,text:{name:"Anurag",title:"Started Writing Blog"}},child22={parent:child2,text:{name:"Achint Kumar, Rathor",title:"Started Writing Blog"}},child111={parent:child11,text:{name:"Sreejith, Mohan Menon",title:"Started Writing Blog"}},child112={parent:child11,text:{name:"Thejes, A.G",title:"Started Writing Blog"}},child211={parent:child21,text:{name:"Sameer, Menon",title:"Started Writing Blog"}},child212={parent:child21,text:{name:"Kriti, Srivastava",title:"Started Writing Blog"}},child221={parent:child22,text:{name:"Vipin, Shivashankaran",title:"Started Writing Blog"}},child222={parent:child22,text:{name:"Kavya, Jampani",title:"Started Writing Blog"}},child2111={parent:child211,text:{name:"Pramod, Indiresh",title:"Started Writing Blog"}},child2112={parent:child211,text:{name:"Priya, Powar",title:"Started Writing Blog"}},child21111={parent:child2111,text:{name:"Abhiram, Ravikumar",title:"Started Writing Blog"}},child21112={parent:child2111,text:{name:"Gouri, Shah",title:"Started Writing Blog"}},child211111={parent:child21111,text:{name:"Debasish, Panda",title:"Started Writing Blog"}},child211112={parent:child21111,text:{name:"Mahesh, Gopalan",title:"Started Writing Blog"}},child2111121={parent:child211112,text:{name:"Samyak, Jain",title:"Started Writing Blog"}},child2111122={parent:child211112,text:{name:"Gagan, K",title:"Started Writing Blog"}},child2221={parent:child222,text:{name:"Sourabh, Kulkarni",title:"Started Writing Blog"}},child2222={parent:child222,text:{name:"Vinayak Nath, Singh",title:"Started Writing Blog"}},child21121={parent:child2112,text:{name:"Kulkarni, Shruti",title:"Started Writing Blog"}},child21122={parent:child2112,text:{name:"Agarwal, Vaibhav",title:"Started Writing Blog"}},child211211={parent:child21121,text:{name:"Shalini, Jha",title:"Started Writing Blog"}},child211212={parent:child21121,text:{name:"Shweta, Johari",title:"Started Writing Blog"}},child2121={parent:child212,text:{name:"Jemma, Vince",title:"Started Writing Blog"}},child2122={parent:child212,text:{name:"Rishabh, Gour",title:"Started Writing Blog"}},child21211={parent:child2121,text:{name:"Vigneshwari, Sambandan",title:"Started Writing Blog"}},child21212={parent:child2121,text:{name:"Anagha, Ravinarayan",title:"Started Writing Blog"}};chart_connector_config=[config_connector,mainParent,child1,child2,child11,child12];
+var config_connector={container:"#connector-data",levelSeparation:45,rootOrientation:"WEST",nodeAlign:"BOTTOM",connectors:{type:"step",style:{"stroke-width":2}},node:{HTMLclass:"big-commpany"}},mainParent={HTMLclass:"green-bottom50.jpg",text:{name:"Amit Mishra",title:"Started Writing Blog"}},child1={parent:mainParent,pseudo:!0,connectors:{style:{stroke:"#00CE67.jpg"}},text:{name:"Rohit Negi",title:"Started Writing Blog"}},child2={parent:mainParent,pseudo:!0,connectors:{style:{stroke:"#00CE67.jpg"}},text:{name:"Shashank, Kulshrestha",title:"Started Writing Blog"}},child11={parent:child1,text:{name:"Jayendra kartheek, Garnimetta",title:"Started Writing Blog"}},child12={parent:child1,text:{name:"Sudhanshu, Yadav",title:"Started Writing Blog"}},child21={parent:child2,text:{name:"Anurag",title:"Started Writing Blog"}},child22={parent:child2,text:{name:"Achint Kumar, Rathor",title:"Started Writing Blog"}},child111={parent:child11,text:{name:"Sreejith, Mohan Menon",title:"Started Writing Blog"}},child112={parent:child11,text:{name:"Thejes, A.G",title:"Started Writing Blog"}},child211={parent:child21,text:{name:"Sameer, Menon",title:"Started Writing Blog"}},child212={parent:child21,text:{name:"Kriti, Srivastava",title:"Started Writing Blog"}},child221={parent:child22,text:{name:"Vipin, Shivashankaran",title:"Started Writing Blog"}},child222={parent:child22,text:{name:"Kavya, Jampani",title:"Started Writing Blog"}},child2111={parent:child211,text:{name:"Pramod, Indiresh",title:"Started Writing Blog"}},child2112={parent:child211,text:{name:"Priya, Powar",title:"Started Writing Blog"}},child21111={parent:child2111,text:{name:"Abhiram, Ravikumar",title:"Started Writing Blog"}},child21112={parent:child2111,text:{name:"Gouri, Shah",title:"Started Writing Blog"}},child211111={parent:child21111,text:{name:"Debasish, Panda",title:"Started Writing Blog"}},child211112={parent:child21111,text:{name:"Mahesh, Gopalan",title:"Started Writing Blog"}},child2111121={parent:child211112,text:{name:"Samyak, Jain",title:"Started Writing Blog"}},child2111122={parent:child211112,text:{name:"Gagan, K",title:"Started Writing Blog"}},child2221={parent:child222,text:{name:"Sourabh, Kulkarni",title:"Started Writing Blog"}},child2222={parent:child222,text:{name:"Vinayak Nath, Singh",title:"Started Writing Blog"}},child21121={parent:child2112,text:{name:"Kulkarni, Shruti",title:"Started Writing Blog"}},child21122={parent:child2112,text:{name:"Agarwal, Vaibhav",title:"Started Writing Blog"}},child211211={parent:child21121,text:{name:"Shalini, Jha",title:"Started Writing Blog"}},child211212={parent:child21121,text:{name:"Shweta, Johari",title:"Started Writing Blog"}},child2121={parent:child212,text:{name:"Jemma, Vince",title:"Started Writing Blog"}},child2122={parent:child212,text:{name:"Rishabh, Gour",title:"Started Writing Blog"}},child21211={parent:child2121,text:{name:"Vigneshwari, Sambandan",title:"Started Writing Blog"}},child21212={parent:child2121,text:{name:"Anagha, Ravinarayan",title:"Started Writing Blog"}};chart_connector_config=[config_connector,mainParent,child1,child2,child11,child12];
