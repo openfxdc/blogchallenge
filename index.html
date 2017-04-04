@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Social Challenge</title>
+    <link rel="stylesheet" href="./css/Treant.css">
+    <link rel="stylesheet" href="./css/custom-colored.css">
+    <link rel='stylesheet prefetch' href='http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css'>
+
+</head>
+<style>
+    #exTab1 .tab-content {
+        background-color: #428bca;
+        padding: 5px 15px;
+    }
+    /* remove border radius for the tab */
+
+    #exTab1 .nav-pills>li>a {
+        border-radius: 0;
+    }
+
+    .site-footer .icon {
+        font-size: 20px;
+    }
+
+    .site-footer .love .icon {
+        font-size: 12px;
+        margin-left: 2px;
+        margin-right: 2px;
+    }
+</style>
+
+<body>
+    <nav>
+        <div class="container">
+            <h1 style="text-align: center;">Social Challenge</h1>
+        </div>
+    </nav>
+    <section>
+        <div id="exTab1" style="padding: 10px;">
+            <ul class="nav nav-pills">
+                <li class="active">
+                    <a href="#1a" data-toggle="tab" onClick="switchType('tree')">Tree View</a>
+                </li>
+                <li><a href="#2a" data-toggle="tab" onClick="switchType('collapse')">Collapsable View</a>
+                </li>
+                <!-- <li><a href="#4a" data-toggle="tab" onClick="downloadImage()">Download Image</a>
+            </li> -->
+
+                <!-- <li><a href="#3a" data-toggle="tab" onClick="switchType('connector')">Connector View</a>
+            </li> -->
+            </ul>
+
+            <div class="tab-content clearfix">
+                <div class="tab-pane active" id="1a">
+                    <div class="chart" id="custom-colored"> Loading Data </div>
+                </div>
+                <div class="tab-pane" id="2a">
+                    <div class="chart" id="collapsable-data"> Loading Data </div>
+                </div>
+                <div class="tab-pane" id="3a">
+                    <div class="chart" id="connector-data"> Loading Data </div>
+                </div>
+                <div class="tab-pane" id="4a">
+                    <image id="theimage"></image>
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer class="container-fluid section bg-4 text-center">
+        <p>Developed by <a href="https://github.com/openfxdc" target="_blank">Open FXU Dev Community</a>
+        </p>
+    </footer>
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="./js/raphael.js"></script>
+    <script src="./js/Treant.js"></script>
+    <script src="./js/custom-colored.js"></script>
+    <script>
+        function switchType(type) {
+            switch (type) {
+                case 'tree':
+                    new Treant(chart_tree_config);
+                    break;
+                case 'collapse':
+                    new Treant(chart_collapse_config);
+                    break;
+                case 'connector':
+                    new Treant(chart_connector_config);
+                    break;
+                default:
+                    new Treant(chart_tree_config);
+                    break;
+            }
+        }
+        switchType('tree');
+    </script>
+</body>
+
+</html>
