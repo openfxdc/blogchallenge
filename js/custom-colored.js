@@ -9,7 +9,7 @@ var config_tree = {
         }
     },
     mainParent = {
-        HTMLclass: 'green-bottom50',
+        //HTMLclass: 'green-bottom50',
         text: {
             name: "Amit Mishra",
             title: "Started Writing Blog"
@@ -18,7 +18,7 @@ var config_tree = {
     },
     child1 = {
         parent: mainParent,
-        HTMLclass: 'green-top50',
+        //HTMLclass: 'green-top50',
         text:{
             name: "Rohit Negi",
             title: "Started Writing Blog"
@@ -27,7 +27,7 @@ var config_tree = {
     },
     child2 = {
         parent: mainParent,
-        HTMLclass: 'green-bottom50',
+        //HTMLclass: 'green-bottom50',
         text:{
             name: "Shashank, Kulshrestha",
             title: "Started Writing Blog"
@@ -310,15 +310,15 @@ var config_tree = {
         image: "./images/I332211.jpg"
     },
     child2122212 = {
-        parent: child212221,
+        parent: child21222,
         text:{
-            name: "Shiv Shankar, S.S.V",
+            name: "Karan, Khanchandani",
             title: "Started Writing Blog"
         },
-        image: "./images/I330820.jpg"
+        image: "./images/I331399.jpg"
     },
     child212222 = {
-        parent: child21222,
+        parent: child212221,
         text:{
             name: "Narendran, N.V",
             title: "Started Writing Blog"
@@ -525,7 +525,7 @@ var config_collapse = {
         }
     },
     mainParent = {
-        HTMLclass: 'green-bottom50',
+       // HTMLclass: 'green-bottom50',
         text: {
             title: "Amit Mishra"
         },
@@ -534,7 +534,7 @@ var config_collapse = {
 
     child1 = {
         parent: mainParent,
-        HTMLclass: 'green-top50',
+        //HTMLclass: 'green-top50',
         text:{
             title: "Rohit Negi",
         },
@@ -542,7 +542,7 @@ var config_collapse = {
     },
     child2 = {
         parent: mainParent,
-        HTMLclass: 'green-bottom50',
+       // HTMLclass: 'green-bottom50',
         text:{
             title: "Shashank, Kulshrestha"
         },
@@ -771,49 +771,49 @@ var config_collapse = {
     child21222 = {
         parent: child2122,
         text:{
-            title: "Shivani, Kandavelu"
+            title: "Shivani, Kandavelu",
         },
         image: "./images/I330821.jpg"
     },
     child212221 = {
         parent: child21222,
         text:{
-            title: "Shiv Shankar, S.S.V"
+            title: "Shiv Shankar, S.S.V",
         },
         image: "./images/I330820.jpg"
     },
     child2122211 = {
         parent: child212221,
         text:{
-            title: "Keerthi Abinesh, Ravikumar"
+            title: "Keerthi Abinesh, Ravikumar",
         },
         image: "./images/I332211.jpg"
     },
     child2122212 = {
-        parent: child212221,
-        text:{
-            title: "Shiv Shankar, S.S.V"
-        },
-        image: "./images/I330820.jpg"
-    },
-    child212222 = {
         parent: child21222,
         text:{
-            title: "Narendran, N.V"
+            title: "Karan, Khanchandani",
+        },
+        image: "./images/I331399.jpg"
+    },
+    child212222 = {
+        parent: child212221,
+        text:{
+            title: "Narendran, N.V",
         },
         image: "./images/I331181.jpg"
     },
     child2122221 = {
         parent: child212222,
         text:{
-            title: "Priyanka H, Mallesh"
+            title: "Priyanka H, Mallesh",
         },
         image: "./images/I336217.jpg"
     },
     child2122222 = {
         parent: child212222,
         text:{
-            title: "Saranya, Nagabhushan"
+            title: "Saranya, Nagabhushan",
         },
         image: "./images/C5158471.jpg"
     },

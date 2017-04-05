@@ -35,7 +35,13 @@
 <body>
     <nav>
         <div class="container">
-            <h1 style="text-align: center;">Social Challenge</h1>
+            <div class="pull-left" style="width:90%;">
+                <h1 style="text-align: center;">Social Challenge</h1>
+            </div>
+            <div class="pull-right" style="width: 10%;max-width: 100px;max-height: 100px">
+                <img src="./images/code.png" width="100px" height="100px" alt="QRCODE Blog Link"/>    
+            </div>
+            
         </div>
     </nav>
     <section>
@@ -45,6 +51,9 @@
                     <a href="#1a" data-toggle="tab" onClick="switchType('tree')">Tree View</a>
                 </li>
                 <li><a href="#2a" data-toggle="tab" onClick="switchType('collapse')">Collapsable View</a>
+                </li>
+                <li style="border-radius: 2%;float:right;">
+                    <a href="https://jam4.sapjam.com/blogs/new/" target="_blank" class="btn btn-primary pull-right"><span class="glyphicon glyphicon-plus" aria-hidden="true"></span> Write Blog</a >
                 </li>
                 <!-- <li><a href="#4a" data-toggle="tab" onClick="downloadImage()">Download Image</a>
             </li> -->
