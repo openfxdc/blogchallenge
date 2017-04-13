@@ -27,7 +27,7 @@ var config_tree = {
     },
     child2 = {
         parent: mainParent,
-        //HTMLclass: 'green-bottom50',
+        HTMLclass: 'green-bottom50',
         text:{
             name: "Shashank, Kulshrestha",
             title: "Started Writing Blog"
@@ -35,6 +35,7 @@ var config_tree = {
         image: "./images/I331657.jpg"
     },
     child11 = {
+        HTMLclass: 'green-bottom50',
         parent: child1,
         text:{
             name: "Jayendra kartheek, Garnimetta",
@@ -85,6 +86,7 @@ var config_tree = {
         image: "./images/I060438.jpg"
     },
     child211 = {
+        HTMLclass: 'green-bottom50',
         parent: child21,
         text:{
             name: "Sameer, Menon",
@@ -369,6 +371,7 @@ var config_tree = {
         image: "./images/I331403.jpg"
     },
     child212122 = {
+        HTMLclass: 'green-bottom50',
         parent: child21212,
         text:{
             name: "Sindhu, Janardhana",
@@ -529,7 +532,7 @@ var config_collapse = {
         }
     },
     mainParent = {
-       // HTMLclass: 'green-bottom50',
+        HTMLclass: 'green-bottom50',
         text: {
             title: "Amit Mishra"
         },
@@ -538,7 +541,7 @@ var config_collapse = {
 
     child1 = {
         parent: mainParent,
-        //HTMLclass: 'green-top50',
+        HTMLclass: 'green',
         text:{
             title: "Rohit Negi",
         },
@@ -546,13 +549,14 @@ var config_collapse = {
     },
     child2 = {
         parent: mainParent,
-       // HTMLclass: 'green-bottom50',
+        HTMLclass: 'green-bottom50',
         text:{
             title: "Shashank, Kulshrestha"
         },
         image: "./images/I331657.jpg"
     },
     child11 = {
+        HTMLclass: 'green-bottom50',
         parent: child1,
         text:{
             title: "Jayendra kartheek, Garnimetta"
@@ -595,6 +599,7 @@ var config_collapse = {
         image: "./images/I060438.jpg"
     },
     child211 = {
+        HTMLclass: 'green-bottom50',
         parent: child21,
         text:{
             title: "Sameer, Menon"
@@ -838,6 +843,7 @@ var config_collapse = {
         image: "./images/I331394.jpg"
     },
     child212121 = {
+
         parent: child21212,
         text:{
             title: "Sindhu, Kishore"
@@ -845,6 +851,7 @@ var config_collapse = {
         image: "./images/I331403.jpg"
     },
     child212122 = {
+        HTMLclass: 'green-bottom50',
         parent: child21212,
         text:{
             title: "Sindhu, Janardhana"
