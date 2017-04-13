@@ -51,6 +51,7 @@ var config_tree = {
         image: "./images/I330822.jpg"
     },
     child21 = {
+        HTMLclass: 'green',
         parent: child2,
         text:{
             name: "Anurag",
@@ -75,6 +76,7 @@ var config_tree = {
         image: "./images/I043373.jpg"
     },
     child112 = {
+        HTMLclass: 'green',
         parent: child11,
         text:{
             name: "Thejes, A.G",
@@ -116,6 +118,7 @@ var config_tree = {
     },
 
     child2111 = {
+        HTMLclass: 'green',
         parent: child211,
         text:{
             name: "Pramod, Indiresh",
@@ -374,6 +377,7 @@ var config_tree = {
         image: "./images/I071993.jpg"
     },
     child2121221 = {
+        HTMLclass: 'green',
         parent: child212122,
         text:{
             name: "Mangkhankhual, Hangshing",
@@ -620,6 +624,7 @@ var config_collapse = {
     },
 
     child2111 = {
+        HTMLclass: 'green',
         parent: child211,
         text:{
             title: "Pramod, Indiresh"
@@ -650,6 +655,7 @@ var config_collapse = {
     },
 
     child211111 = {
+        HTMLclass: 'green',
         parent: child21111,
         text:{
             title: "Debasish, Panda"
