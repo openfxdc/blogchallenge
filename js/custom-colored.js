@@ -9,7 +9,7 @@ var config_tree = {
         }
     },
     mainParent = {
-        //HTMLclass: 'green-bottom50',
+        HTMLclass: 'green-bottom50',
         text: {
             name: "Amit Mishra",
             title: "Started Writing Blog"
@@ -18,7 +18,7 @@ var config_tree = {
     },
     child1 = {
         parent: mainParent,
-        //HTMLclass: 'green-top50',
+        HTMLclass: 'green',
         text:{
             name: "Rohit Negi",
             title: "Started Writing Blog"
