@@ -12,7 +12,7 @@ var config_tree = {
         HTMLclass: 'green-bottom50',
         text: {
             name: "Amit Mishra",
-            title: "Started Writing Blog"
+            title: "Code Coverage for S/4 HANA apps"
         },
         image: "./images/I043155.jpg"
     },
@@ -21,7 +21,7 @@ var config_tree = {
         HTMLclass: 'green',
         text:{
             name: "Rohit Negi",
-            title: "Started Writing Blog"
+            title: "Fiori Launchpad (FLP)"
         },
         image: "./images/I064952.jpg"
     },
@@ -56,7 +56,7 @@ var config_tree = {
         parent: child2,
         text:{
             name: "Anurag",
-            title: "Started Writing Blog"
+            title: "Identity and Access Management"
         },
         image: "./images/I311168.jpg"
     },
@@ -81,7 +81,7 @@ var config_tree = {
         parent: child11,
         text:{
             name: "Thejes, A.G",
-            title: "Started Writing Blog"
+            title: "Concept paper for Procure Area"
         },
         image: "./images/I060438.jpg"
     },
@@ -124,7 +124,7 @@ var config_tree = {
         parent: child211,
         text:{
             name: "Pramod, Indiresh",
-            title: "Started Writing Blog"
+            title: "S/4HANA Project Onboarding"
         },
         image: "./images/I053023.jpg"
     },
@@ -158,7 +158,7 @@ var config_tree = {
         parent: child21111,
         text:{
             name: "Debasish, Panda",
-            title: "Started Writing Blog"
+            title: "Influence of Personality \r\n type on a Team Player(HR)"
         },
         image: "./images/I034834.jpg"
     },
@@ -384,7 +384,7 @@ var config_tree = {
         parent: child212122,
         text:{
             name: "Mangkhankhual, Hangshing",
-            title: "Started Writing Blog"
+            title: "How to design Gamification"
         },
         image: "./images/I329854.jpg"
     },
