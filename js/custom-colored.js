@@ -9,7 +9,7 @@ var config_tree = {
         }
     },
     mainParent = {
-        HTMLclass: 'green-bottom50',
+        HTMLclass: 'green',
         text: {
             name: "Amit Mishra",
             title: "Code Coverage for S/4 HANA apps"
@@ -18,7 +18,7 @@ var config_tree = {
     },
     child1 = {
         parent: mainParent,
-        HTMLclass: 'green',
+        HTMLclass: 'green-top50',
         text:{
             name: "Rohit Negi",
             title: "Fiori Launchpad (FLP)"
@@ -27,10 +27,10 @@ var config_tree = {
     },
     child2 = {
         parent: mainParent,
-        HTMLclass: 'green-bottom50',
+        HTMLclass: 'green-top50',
         text:{
             name: "Shashank, Kulshrestha",
-            title: "Started Writing Blog"
+            title: "How to use HANA database as service in SCP"
         },
         image: "./images/I331657.jpg"
     },
@@ -52,7 +52,7 @@ var config_tree = {
         image: "./images/I330822.jpg"
     },
     child21 = {
-        HTMLclass: 'green',
+        HTMLclass: 'green-top50',
         parent: child2,
         text:{
             name: "Anurag",
@@ -90,7 +90,7 @@ var config_tree = {
         parent: child21,
         text:{
             name: "Sameer, Menon",
-            title: "Started Writing Blog"
+            title: "Documentation in Ixiasoft \r\n DITA CMS"
         },
         image: "./images/I331652.jpg"
     },
@@ -106,7 +106,7 @@ var config_tree = {
         parent: child22,
         text:{
             name: "Vipin, Shivashankaran",
-            title: "Started Writing Blog"
+            title: "Big Data Analytical Models and Algorithms"
         },
         image: "./images/I030005.jpg"
     },
@@ -120,7 +120,7 @@ var config_tree = {
     },
 
     child2111 = {
-        HTMLclass: 'green',
+        HTMLclass: 'green-top50',
         parent: child211,
         text:{
             name: "Pramod, Indiresh",
@@ -138,6 +138,7 @@ var config_tree = {
         image: "./images/I331407.jpg"
     },
     child21111 = {
+        HTMLclass: "green-bottom50",
         parent: child2111,
         text:{
             name: "Abhiram, Ravikumar",
@@ -155,6 +156,7 @@ var config_tree = {
     },
 
     child211111 = {
+        HTMLclass: "green",
         parent: child21111,
         text:{
             name: "Debasish, Panda",
@@ -251,6 +253,7 @@ var config_tree = {
         image: "./images/I330796.jpg"
     },
     child21221 = {
+         HTMLclass: 'green-bottom50',
         parent: child2122,
         text:{
             name: "Amitha, Srinivasan",
@@ -259,14 +262,16 @@ var config_tree = {
         image: "./images/I304332.jpg"
     },
     child212211 = {
+        HTMLclass: 'green',
         parent: child21221,
         text:{
             name: "Bhuvana, Raju",
-            title: "Started Writing Blog"
+            title: " Metadata Extension, Analytical Column Extension & CDS facets annotation"
         },
         image: "./images/I331594.jpg"
     },
     child212212 = {
+        HTMLclass:"green-bottom50",
         parent: child21221,
         text:{
             name: "Alik, Garai",
@@ -283,10 +288,11 @@ var config_tree = {
         image: "./images/I329330.jpg"
     },
     child2122122 = {
+        HTMLclass:"green",
         parent: child212212,
         text:{
             name: "Vishwarajsinh, Sodha",
-            title: "Started Writing Blog"
+            title: "Quality Management Process Overview"
         },
         image: "./images/I332723.jpg"
     },
@@ -380,7 +386,7 @@ var config_tree = {
         image: "./images/I071993.jpg"
     },
     child2121221 = {
-        HTMLclass: 'green',
+        HTMLclass: 'green-top50',
         parent: child212122,
         text:{
             name: "Mangkhankhual, Hangshing",
@@ -445,6 +451,7 @@ var config_tree = {
         image: "./images/I331388.jpg"
     },
     child2121212 = {
+        HTMLclass:"green-bottom50",
         parent: child212121,
         text:{
             name: "Rimi, DE",
@@ -453,10 +460,11 @@ var config_tree = {
         image: "./images/I311155.jpg"
     },
     child21212121 = {
+        HTMLclass:"green-top50",
         parent: child2121212,
         text:{
             name: "Pavan, Chittanpalli Vasudevan",
-            title: "Started Writing Blog"
+            title: "Data Protection Management System (DPMS)"
         },
         image: "./images/I032875.jpg"
     },
@@ -541,7 +549,7 @@ var config_collapse = {
 
     child1 = {
         parent: mainParent,
-        HTMLclass: 'green',
+        HTMLclass: 'green-top50',
         text:{
             title: "Rohit Negi",
         },
