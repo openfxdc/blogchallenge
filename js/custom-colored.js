@@ -27,7 +27,7 @@ var config_tree = {
     },
     child2 = {
         parent: mainParent,
-        HTMLclass: 'green-top50',
+        HTMLclass: 'green',
         text:{
             name: "Shashank, Kulshrestha",
             title: "How to use HANA database as service in SCP"
@@ -61,10 +61,11 @@ var config_tree = {
         image: "./images/I311168.jpg"
     },
     child22 = {
+        HTMLclass : "green-top50",
         parent: child2,
         text:{
             name: "Achint Kumar, Rathor",
-            title: "Started Writing Blog"
+            title: "Leveraging SCP services with our daily applications"
         },
         image: "./images/I331047.jpg"
     },
@@ -305,6 +306,7 @@ var config_tree = {
         image: "./images/I330821.jpg"
     },
     child212221 = {
+        HTMLclass : "green-bottom50",
         parent: child21222,
         text:{
             name: "Shiv Shankar, S.S.V",
@@ -313,10 +315,11 @@ var config_tree = {
         image: "./images/I330820.jpg"
     },
     child2122211 = {
+        HTMLclass : "green",
         parent: child212221,
         text:{
             name: "Keerthi Abinesh, Ravikumar",
-            title: "Started Writing Blog"
+            title: "CDS Test Double Framework"
         },
         image: "./images/I332211.jpg"
     },
@@ -372,7 +375,7 @@ var config_tree = {
         parent: child21212,
         text:{
             name: "Sindhu, Kishore",
-            title: "Started Writing Blog"
+            title: "Quality Assurance"
         },
         image: "./images/I331403.jpg"
     },
@@ -403,6 +406,7 @@ var config_tree = {
         image: "./images/I324332.jpg"
     },
     child2121222 = {
+        HTMLclass : "green-bottom50",
         parent: child212122,
         text:{
             name: "Preethi, Ramamourthy",
@@ -419,10 +423,11 @@ var config_tree = {
         image: "./images/I049143.jpg"
     },
     child21212222 = {
+        HTMLclass : "green",
         parent: child2121222,
         text:{
             name: "Madhu, GC",
-            title: "Started Writing Blog"
+            title: "CDS/SQL Performance trace and Analysis"
         },
         image: "./images/I049670.jpg"
     },
@@ -586,6 +591,7 @@ var config_collapse = {
         image: "./images/I311168.jpg"
     },
     child22 = {
+        HTMLclass : "green-top50",
         parent: child2,
         text:{
             title: "Achint Kumar, Rathor"
