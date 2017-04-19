@@ -39,7 +39,7 @@ var config_tree = {
         parent: child1,
         text:{
             name: "Jayendra kartheek, Garnimetta",
-            title: "Started Writing Blog"
+            title: "AMD"
         },
         image: "./images/I329692.jpg"
     },
