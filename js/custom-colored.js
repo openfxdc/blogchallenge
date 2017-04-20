@@ -486,7 +486,11 @@ var config_tree = {
         parent: child212122,
         text:{
             name: "Mangkhankhual, Hangshing",
-            title: "How to design Gamification"
+            contact: { 
+                val: "How to design Gamification",
+                href: "https://jam4.sapjam.com/albums/K8CvJYCAXTfIzXH862ngED/photos/wGGOdGX8Qw85Aj7PcygqCn",
+                target: "_blank"
+            }
         },
         image: "./images/I329854.jpg"
     },
