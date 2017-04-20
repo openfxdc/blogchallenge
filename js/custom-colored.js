@@ -380,7 +380,7 @@ var config_tree = {
         parent: child21212,
         text:{
             name: "Sindhu, Kishore",
-            title: "Quality Assurance"
+            title: "Started Writing Blog"
         },
         image: "./images/I331403.jpg"
     },
@@ -389,7 +389,7 @@ var config_tree = {
         parent: child21212,
         text:{
             name: "Sindhu, Janardhana",
-            title: "Started Writing Blog"
+            title: "Quality Assurance"
         },
         image: "./images/I071993.jpg"
     },
