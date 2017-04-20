@@ -39,7 +39,7 @@ var config_tree = {
         parent: child1,
         text:{
             name: "Jayendra kartheek, Garnimetta",
-            title: "AMD"
+            title: "Started Writing Blog"
         },
         image: "./images/I329692.jpg"
     },
@@ -52,7 +52,7 @@ var config_tree = {
         image: "./images/I330822.jpg"
     },
     child21 = {
-        HTMLclass: 'green-top50',
+        HTMLclass: 'green',
         parent: child2,
         text:{
             name: "Anurag",
@@ -96,10 +96,11 @@ var config_tree = {
         image: "./images/I331652.jpg"
     },
     child212 = {
+        HTMLclass: "green-top50",
         parent: child21,
         text:{
             name: "Kriti, Srivastava",
-            title: "Started Writing Blog"
+            title: "How to develop an \r\n Analytical List Page application"
         },
         image: "./images/I331382.jpg"
     },
@@ -198,10 +199,11 @@ var config_tree = {
         image: "./images/I331582.jpg"
     },
     child2222 = {
+        HTMLclass:"green",
         parent: child222,
         text:{
             name: "Vinayak Nath, Singh",
-            title: "Started Writing Blog"
+            title: "HTTP to ODATA Evolution"
         },
         image: "./images/I066990.jpg"
     },
@@ -238,10 +240,11 @@ var config_tree = {
         image: "./images/I332758.jpg"
     },
     child2121 = {
+        HTMLclass: "green-top50",
         parent: child212,
         text:{
             name: "Jemma, Vince",
-            title: "Started Writing Blog"
+            title: "Make use of \r\n eCATT script for creating data."
         },
         image: "./images/I332721.jpg"
     },
@@ -298,10 +301,11 @@ var config_tree = {
         image: "./images/I332723.jpg"
     },
     child21222 = {
+        HTMLclass: "green-top50",
         parent: child2122,
         text:{
             name: "Shivani, Kandavelu",
-            title: "Started Writing Blog"
+            title: "creating and utilizing \r\n Authorisation Objects"
         },
         image: "./images/I330821.jpg"
     },
@@ -356,10 +360,11 @@ var config_tree = {
         image: "./images/C5158471.jpg"
     },
     child21211 = {
+        HTMLclass: "green",
         parent: child2121,
         text:{
             name: "Vigneshwari, Sambandan",
-            title: "Started Writing Blog"
+            title: "Steps to Create \r\n UI Project Project Portal "
         },
         image: "./images/I332724.jpg"
     },
