@@ -275,7 +275,7 @@ var config_tree = {
         image: "./images/I331594.jpg"
     },
     child212212 = {
-        HTMLclass:"green",
+        HTMLclass:"green-bottom50",
         parent: child21221,
         text:{
             name: "Alik, Garai",
