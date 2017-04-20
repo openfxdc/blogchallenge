@@ -4,6 +4,7 @@
     
     <meta http-equiv="content-type" content="text/html;charset=UTF-8">
     <meta http-equiv="refresh" content="600">
+    <link rel="shortcut icon" href="./images/favicon.ico"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Social Challenge</title>
     <link rel="stylesheet" href="./css/Treant.css">
@@ -51,8 +52,8 @@
                 <li class="active">
                     <a href="#1a" data-toggle="tab" onClick="switchType('tree')">Tree View</a>
                 </li>
-                <li><a href="#2a" data-toggle="tab" onClick="switchType('collapse')">Collapsable View</a>
-                </li>
+                <!-- <li><a href="#2a" data-toggle="tab" onClick="switchType('collapse')">Collapsable View</a>
+                </li> -->
                 <li style="border-radius: 2%;float:right;">
                     <a href="https://jam4.sapjam.com/wiki/show/3ZaarjdsvjTllFVpqSAcmB" target="_blank" class="btn btn-info pull-right">View Blogs</a >
                 </li>
@@ -111,7 +112,11 @@
                     break;
             }
         }
-        switchType('tree');
+        
+        $(document).ready(function(){
+            switchType('tree');
+            $('body').css('zoom','70%');
+        });
     </script>
 </body>
 
