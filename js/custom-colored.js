@@ -12,7 +12,11 @@ var config_tree = {
         HTMLclass: 'green',
         text: {
             name: "Amit Mishra",
-            title: "Code Coverage for S/4 HANA apps"
+            contact: { 
+            val: "Code Coverage for S/4 HANA apps",
+                href: "https://jam4.sapjam.com/groups/xspW69TpSt2bMffMUFAnjy/documents/gDNpotIwhehoYefRuZqApY/slide_viewer",
+                target: "_blank"
+            }
         },
         image: "./images/I043155.jpg"
     },
@@ -21,7 +25,11 @@ var config_tree = {
         HTMLclass: 'green-top50',
         text:{
             name: "Rohit Negi",
-            title: "Fiori Launchpad (FLP)"
+            contact: { 
+                val: "Fiori Launchpad (FLP)",
+                href: "https://jam4.sapjam.com/profile/4trybpJxmqo3vJj0TcUlRy/documents/X3wNojaoBzuTNSgAwew1yY",
+                target: "_blank"
+            }
         },
         image: "./images/I064952.jpg"
     },
@@ -30,7 +38,11 @@ var config_tree = {
         HTMLclass: 'green',
         text:{
             name: "Shashank, Kulshrestha",
-            title: "How to use HANA database as service in SCP"
+            contact: { 
+                val: "How to use HANA database as service in SCP",
+                href: "https://jam4.sapjam.com/profile/J3tnIiYdWQ5k114tkqxcK2/documents/dfh9q5awuwsbH4K1g5z5ed",
+                target: "_blank"
+            }
         },
         image: "./images/I331657.jpg"
     },
@@ -39,7 +51,11 @@ var config_tree = {
         parent: child1,
         text:{
             name: "Jayendra kartheek, Garnimetta",
-            title: "AMD & UI5"
+            contact: { 
+                val: "AMD & UI5",
+                href: "https://jam4.sapjam.com/profile/bXWa3qEpS4zSs7SGA3H1VL/documents/J6F6Z1R4WIw2NkwV5Ek9lp",
+                target: "_blank"
+            }
         },
         image: "./images/I329692.jpg"
     },
@@ -56,7 +72,12 @@ var config_tree = {
         parent: child2,
         text:{
             name: "Anurag",
-            title: "Identity and Access Management"
+            contact: { 
+                val: "Identity and Access Management",
+                href: "https://jam4.sapjam.com/blogs/show/92PBNa3NKlCcbocPkT9yeP",
+                target: "_blank"
+            }
+            
         },
         image: "./images/I311168.jpg"
     },
@@ -65,7 +86,11 @@ var config_tree = {
         parent: child2,
         text:{
             name: "Achint Kumar, Rathor",
-            title: "Leveraging SCP services with our daily applications"
+            contact: { 
+                val: "Leveraging SCP services \r\n with our daily applications",
+                href: "https://jam4.sapjam.com/profile/fjIXTVQipnyoZzYWB0re6X/documents/AMdpgHlmuLTfqC7t2SkmjS",
+                target: "_blank"
+            }
         },
         image: "./images/I331047.jpg"
     },
@@ -82,7 +107,11 @@ var config_tree = {
         parent: child11,
         text:{
             name: "Thejes, A.G",
-            title: "Concept paper for Procure Area"
+            contact: { 
+                val: "Concept paper for Procure Area",
+                href: "https://jam4.sapjam.com/profile/3KQfOGbCRUwevjnRMQJy0o/documents/2V5L87b7IMZP4UrJGmSSuG",
+                target: "_blank"
+            }
         },
         image: "./images/I060438.jpg"
     },
@@ -91,7 +120,11 @@ var config_tree = {
         parent: child21,
         text:{
             name: "Sameer, Menon",
-            title: "Documentation in Ixiasoft \r\n DITA CMS"
+            contact: { 
+                val: "Documentation in Ixiasoft \r\n DITA CMS",
+                href: "https://jam4.sapjam.com/profile/NMjyYiTVkHl0Q8n6M5ELll/documents/dLRTFnACqdamDzRoAACVoX",
+                target: "_blank"
+            }
         },
         image: "./images/I331652.jpg"
     },
@@ -100,7 +133,11 @@ var config_tree = {
         parent: child21,
         text:{
             name: "Kriti, Srivastava",
-            title: "How to develop an \r\n Analytical List Page application"
+            contact: { 
+                val: "How to develop an \r\n Analytical List Page application",
+                href: "https://jam4.sapjam.com/profile/n048yOIRaa0RuSUdLEQWBa/documents/AHRe4haPkIpwlvKTID43So",
+                target: "_blank"
+            }
         },
         image: "./images/I331382.jpg"
     },
@@ -108,8 +145,12 @@ var config_tree = {
         HTMLclass:"green",
         parent: child22,
         text:{
-            name: "Vipin, Shivashankaran",
-            title: "Big Data Analytical Models and Algorithms"
+            name: "Vipin,\r\nShivashankaran",
+            contact: { 
+                val: "Big Data Analytical\r\n Models and Algorithms",
+                href: "https://jam4.sapjam.com/profile/0mxvG90hH6EBA4tznbpwLk/documents/lQKtaCtVNXv4y8O2lHKCdy",
+                target: "_blank"
+            }
         },
         image: "./images/I030005.jpg"
     },
@@ -127,7 +168,11 @@ var config_tree = {
         parent: child211,
         text:{
             name: "Pramod, Indiresh",
-            title: "S/4HANA Project Onboarding"
+            contact: { 
+                val: "S/4HANA Project Onboarding",
+                href: "https://jam4.sapjam.com/profile/3ydEu8ALXJLcGuxJ1KRqal/documents/iGIwn8uXW6PqMuSbrSCI0m",
+                target: "_blank"
+            }
         },
         image: "./images/I053023.jpg"
     },
@@ -163,7 +208,11 @@ var config_tree = {
         parent: child21111,
         text:{
             name: "Debasish, Panda",
-            title: "Influence of Personality \r\n type on a Team Player(HR)"
+            contact: { 
+                val: "Influence of Personality \r\n type on a Team Player(HR)",
+                href: "https://jam4.sapjam.com/profile/6Q2XAYjsfhHWrRlk5fbOMM/documents/X07Cf0bXDgTlpODBWqPxet",
+                target: "_blank"
+            }
         },
         image: "./images/I034834.jpg"
     },
@@ -204,7 +253,11 @@ var config_tree = {
         parent: child222,
         text:{
             name: "Vinayak Nath, Singh",
-            title: "HTTP to ODATA Evolution"
+            contact: { 
+                val: "HTTP to ODATA Evolution",
+                href: "https://jam4.sapjam.com/profile/0jxcAAyn8yd9erj6zLqG2w/documents/nMn0x2Lt16XAHbmQUlKUXp",
+                target: "_blank"
+            }
         },
         image: "./images/I066990.jpg"
     },
@@ -245,7 +298,11 @@ var config_tree = {
         parent: child212,
         text:{
             name: "Jemma, Vince",
-            title: "Make use of \r\n eCATT script for creating data."
+            contact: { 
+                val: "Make use of \r\n eCATT script for creating data.",
+                href: "https://jam4.sapjam.com/profile/31zMgVfGgHFDQDO0WYu6o0/documents/u0ngCRJCYAhaMtySELJrRN",
+                target: "_blank"
+            }
         },
         image: "./images/I332721.jpg"
     },
@@ -271,7 +328,11 @@ var config_tree = {
         parent: child21221,
         text:{
             name: "Bhuvana, Raju",
-            title: " Metadata Extension, Analytical Column Extension & CDS facets annotation"
+            contact: { 
+                val: "Metadata Extension, \r\n Analytical Column Extension & \r\n CDS facets annotation",
+                href: "https://jam4.sapjam.com/profile/TpNxqn8bogdWpQi2V1rL2l/documents/tovMOrFIb2iu3G7T68im69",
+                target: "_blank"
+            }
         },
         image: "./images/I331594.jpg"
     },
@@ -289,7 +350,11 @@ var config_tree = {
         parent: child212212,
         text:{
             name: "Shivakumar",
-            title: "How to create Analytical View"
+            contact: { 
+                val: "How to create Analytical View",
+                href: "https://jam4.sapjam.com/profile/tapXgh0C9BmB5IJuE5yP7u/documents/B4gkrNbWoZNV33yXVQUpfm",
+                target: "_blank"
+            }
         },
         image: "./images/I329330.jpg"
     },
@@ -298,7 +363,11 @@ var config_tree = {
         parent: child212212,
         text:{
             name: "Vishwarajsinh, Sodha",
-            title: "Quality Management Process Overview"
+            contact: { 
+                val: "Quality Management Process Overview",
+                href: "https://jam4.sapjam.com/profile/UpqFDTFUkrZ8v3hlbKaorF/documents/MAMA3Q5wXzEFL3Mkke6W8N",
+                target: "_blank"
+            }
         },
         image: "./images/I332723.jpg"
     },
@@ -307,7 +376,11 @@ var config_tree = {
         parent: child2122,
         text:{
             name: "Shivani, Kandavelu",
-            title: "creating and utilizing \r\n Authorisation Objects"
+            contact: { 
+                val: "creating and utilizing \r\n Authorisation Objects",
+                href: "https://jam4.sapjam.com/profile/UA7lQP6DfLKby0B6mWDFyO/documents/r1VhyKjnOwox1WFZWWJlZh",
+                target: "_blank"
+            }
         },
         image: "./images/I330821.jpg"
     },
@@ -325,7 +398,12 @@ var config_tree = {
         parent: child212221,
         text:{
             name: "Keerthi Abinesh, Ravikumar",
-            title: "CDS Test Double Framework"
+            title: "",
+            contact: { 
+                val: "CDS Test Double Framework",
+                href: "https://jam4.sapjam.com/profile/mlgpz7XBbZUEKOZisZypIU/documents/YgJ28mzKHV2Y4hNkRAVe0h",
+                target: "_blank"
+            }
         },
         image: "./images/I332211.jpg"
     },
@@ -366,7 +444,11 @@ var config_tree = {
         parent: child2121,
         text:{
             name: "Vigneshwari, Sambandan",
-            title: "Types of navigation in FLP"
+            contact: { 
+                val: "Types of navigation in FLP",
+                href: "https://jam4.sapjam.com/profile/fLIz8YDXHos2FDD0V8Nwa9/documents/eGOVJeSQozJxfxBGzIUWLs",
+                target: "_blank"
+            }
         },
         image: "./images/I332724.jpg"
     },
@@ -391,7 +473,11 @@ var config_tree = {
         parent: child21212,
         text:{
             name: "Sindhu, Janardhana",
-            title: "Quality Assurance"
+            contact: { 
+                val: "Quality Assurance",
+                href: "https://jam4.sapjam.com/profile/0UMxunDTNOwnwPac26gqJG/documents/6mzxPaqt6a0gNvb5qp4LCo",
+                target: "_blank"
+            }
         },
         image: "./images/I071993.jpg"
     },
@@ -426,7 +512,12 @@ var config_tree = {
         parent: child2121222,
         text:{
             name: "Vighneswaran, CE",
-            title: "Steps to Create \r\n UI Project Project Portal "
+            title: "",
+            contact: { 
+                val: "Steps to Create \r\n UI Project Project Portal",
+                href: "https://jam4.sapjam.com/profile/2frAMd61QZnYsJWIywR6EP/documents/qrOS8S3q0oZYxtCSlYjDEH",
+                target: "_blank"
+            }
         },
         image: "./images/I049143.jpg"
     },
@@ -435,7 +526,11 @@ var config_tree = {
         parent: child2121222,
         text:{
             name: "Madhu, GC",
-            title: "CDS/SQL Performance trace and Analysis"
+            contact: { 
+                val: "CDS/SQL Performance trace and Analysis",
+                href: "https://jam4.sapjam.com/profile/6uBJuXU8M24adaMsTx5GVv/documents/noIan1Fsn3TcdWi6TwpbMj",
+                target: "_blank"
+            }
         },
         image: "./images/I049670.jpg"
     },
@@ -477,7 +572,11 @@ var config_tree = {
         parent: child2121212,
         text:{
             name: "Pavan, Chittanpalli Vasudevan",
-            title: "Data Protection Management System (DPMS)"
+            contact: { 
+                val: "Data Protection Management System (DPMS)",
+                href: "https://jam4.sapjam.com/profile/jOhG5eKlecoc9oEAMAFmg4/documents/aC17uBdAOWM1qZj1zkKQ2C",
+                target: "_blank"
+            }
         },
         image: "./images/I032875.jpg"
     },
@@ -494,15 +593,24 @@ var config_tree = {
         parent: child21212121,
         text:{
             name: "Shwetha Monappa, Nairy",
-            title: " What is the best delivery model \r\n for a unit that works on \r\n Apps for Cloud "
+            contact: { 
+                val: "What is the best delivery model \r\n for a unit that works on \r\n Apps for Cloud ",
+                href: "https://jam4.sapjam.com/profile/3oONVQywgecSNmqZmIBOyz/documents/Ewg1QYVUNu8rqqhPXXhOF6",
+                target: "_self"
+            }
         },
         image: "./images/I062039.jpg"
     },
     child21212122 = {
+        HTMLclass:"green",
         parent: child2121212,
         text:{
             name: "Kanhu, Ranjan Padhi",
-            title: "Started Writing Blog"
+            contact: { 
+                val: "PPDS – Capacity Utilization Object Page ",
+                href: "https://jam4.sapjam.com/blogs/show/0nSgm4clEwzwUmN19JC0FM",
+                target: "_blank"
+            }
         },
         image: "./images/I052877.jpg"
     },
@@ -538,467 +646,4 @@ var config_tree = {
         child2122211,child2122212,
         child2122222,child2122221
 
-    ];
-/*collapsable view not updated*/
-var config_collapse = {
-        container: "#collapsable-data",
-        animateOnInit: !0,
-        node: {
-            collapsable: !0
-        },
-        animation: {
-            nodeAnimation: "easeOutBounce",
-            nodeSpeed: 700,
-            connectorsAnimation: "bounce",
-            connectorsSpeed: 700
-        }
-    },
-    mainParent = {
-        HTMLclass: 'green-bottom50',
-        text: {
-            title: "Amit Mishra"
-        },
-        image: "./images/I043155.jpg"
-    },
-
-    child1 = {
-        parent: mainParent,
-        HTMLclass: 'green-top50',
-        text:{
-            title: "Rohit Negi",
-        },
-        image: "./images/I064952.jpg"
-    },
-    child2 = {
-        parent: mainParent,
-        HTMLclass: 'green-bottom50',
-        text:{
-            title: "Shashank, Kulshrestha"
-        },
-        image: "./images/I331657.jpg"
-    },
-    child11 = {
-        HTMLclass: 'green-bottom50',
-        parent: child1,
-        text:{
-            title: "Jayendra kartheek, Garnimetta"
-        },
-        image: "./images/I329692.jpg"
-    },
-    child12 = {
-        parent: child1,
-        text:{
-            title: "Sudhanshu, Yadav"
-        },
-        image: "./images/I330822.jpg"
-    },
-    child21 = {
-        parent: child2,
-        text:{
-            title: "Anurag"
-        },
-        image: "./images/I311168.jpg"
-    },
-    child22 = {
-        HTMLclass : "green-top50",
-        parent: child2,
-        text:{
-            title: "Achint Kumar, Rathor"
-        },
-        image: "./images/I331047.jpg"
-    },
-    child111 = {
-        parent: child11,
-        text:{
-            title: "Sreejith, Mohan Menon"
-        },
-        image: "./images/I043373.jpg"
-    },
-    child112 = {
-        parent: child11,
-        text:{
-            title: "Thejes, A.G"
-        },
-        image: "./images/I060438.jpg"
-    },
-    child211 = {
-        HTMLclass: 'green-bottom50',
-        parent: child21,
-        text:{
-            title: "Sameer, Menon"
-        },
-        image: "./images/I331652.jpg"
-    },
-    child212 = {
-        parent: child21,
-        text:{
-            title: "Kriti, Srivastava"
-        },
-        image: "./images/I331382.jpg"
-    },
-    child221 = {
-        parent: child22,
-        text:{
-            title: "Vipin, Shivashankaran"
-        },
-        image: "./images/I030005.jpg"
-    },
-    child222 = {
-        parent: child22,
-        text:{
-            title: "Kavya, Jampani"
-        },
-        image: "./images/I331402.jpg"
-    },
-
-    child2111 = {
-        HTMLclass: 'green',
-        parent: child211,
-        text:{
-            title: "Pramod, Indiresh"
-        },
-        image: "./images/I053023.jpg"
-    },
-
-    child2112 = {
-        parent: child211,
-        text:{
-            title: "Priya, Powar"
-        },
-        image: "./images/I331407.jpg"
-    },
-    child21111 = {
-        parent: child2111,
-        text:{
-            title: "Abhiram, Ravikumar"
-        },
-        image: "./images/I333032.jpg"
-    },
-    child21112 = {
-        parent: child2111,
-        text:{
-            title: "Gouri, Shah"
-        },
-        image: "./images/I331129.jpg"
-    },
-
-    child211111 = {
-        HTMLclass: 'green',
-        parent: child21111,
-        text:{
-            title: "Debasish, Panda"
-        },
-        image: "./images/I034834.jpg"
-    },
-    child211112 = {
-        parent: child21111,
-        text:{
-            title: "Mahesh, Gopalan"
-        },
-        image: "./images/I014260.jpg"
-    },
-    child2111121 = {
-        parent: child211112,
-        text:{
-            title: "Samyak, Jain"
-        },
-        image: "./images/I331420.jpg"
-    },
-    child2111122 = {
-        parent: child211112,
-        text:{
-            title: "Gagan, K"
-        },
-        image: "./images/I331412.jpg"
-    },
-    child2221 = {
-        parent: child222,
-        text:{
-            title: "Sourabh, Kulkarni"
-        },
-        image: "./images/I331582.jpg"
-    },
-    child2222 = {
-        parent: child222,
-        text:{
-            title: "Vinayak Nath, Singh"
-        },
-        image: "./images/I066990.jpg"
-    },
-    child21121 = {
-        parent: child2112,
-        text:{
-            title: "Kulkarni, Shruti"
-        },
-        image: "./images/I331337.jpg"
-    },
-    child21122 = {
-        parent: child2112,
-        text:{
-            title: "Agarwal, Vaibhav"
-        },
-        image: "./images/I065600.jpg"
-    },
-    child211211 = {
-        parent: child21121,
-        text:{
-            title: "Shalini, Jha"
-        },
-        image: "./images/I069231.jpg"
-    },
-    child211212 = {
-        parent: child21121,
-        text:{
-            title: "Shweta, Johari"
-        },
-        image: "./images/I332758.jpg"
-    },
-    child2121 = {
-        parent: child212,
-        text:{
-            title: "Jemma, Vince"
-        },
-        image: "./images/I332721.jpg"
-    },
-    child2122 = {
-        parent: child212,
-        text:{
-            title: "Rishabh, Gour"
-        },
-        image: "./images/I330796.jpg"
-    },
-    child21221 = {
-        parent: child2122,
-        text:{
-            title: "Amitha, Srinivasan"
-        },
-        image: "./images/I304332.jpg"
-    },
-    child212211 = {
-        parent: child21221,
-        text:{
-            title: "Bhuvana, Raju"
-        },
-        image: "./images/I331594.jpg"
-    },
-    child212212 = {
-        parent: child21221,
-        text:{
-            title: "Alik, Garai"
-        },
-        image: "./images/I332308.jpg"
-    },
-    child2122121 = {
-        parent: child212212,
-        text:{
-            title: "Shivakumar"
-        },
-        image: "./images/I329330.jpg"
-    },
-    child2122122 = {
-        parent: child212212,
-        text:{
-            title: "Vishwarajsinh, Sodha"
-        },
-        image: "./images/I332723.jpg"
-    },
-    child21222 = {
-        parent: child2122,
-        text:{
-            title: "Shivani, Kandavelu",
-        },
-        image: "./images/I330821.jpg"
-    },
-    child212221 = {
-        parent: child21222,
-        text:{
-            title: "Shiv Shankar, S.S.V",
-        },
-        image: "./images/I330820.jpg"
-    },
-    child2122211 = {
-        parent: child212221,
-        text:{
-            title: "Keerthi Abinesh, Ravikumar",
-        },
-        image: "./images/I332211.jpg"
-    },
-    child2122212 = {
-        parent: child21222,
-        text:{
-            title: "Karan, Khanchandani",
-        },
-        image: "./images/I331399.jpg"
-    },
-    child212222 = {
-        parent: child212221,
-        text:{
-            title: "Narendran, N.V",
-        },
-        image: "./images/I331181.jpg"
-    },
-    child2122221 = {
-        parent: child212222,
-        text:{
-            title: "Priyanka H, Mallesh",
-        },
-        image: "./images/I336217.jpg"
-    },
-    child2122222 = {
-        parent: child212222,
-        text:{
-            title: "Saranya, Nagabhushan",
-        },
-        image: "./images/C5158471.jpg"
-    },
-    child21211 = {
-        parent: child2121,
-        text:{
-            title: "Vigneshwari, Sambandan"
-        },
-        image: "./images/I332724.jpg"
-    },
-    child21212 = {
-        parent: child2121,
-        text:{
-            title: "Anagha, Ravinarayan"
-        },
-        image: "./images/I331394.jpg"
-    },
-    child212121 = {
-
-        parent: child21212,
-        text:{
-            title: "Sindhu, Kishore"
-        },
-        image: "./images/I331403.jpg"
-    },
-    child212122 = {
-        HTMLclass: 'green-bottom50',
-        parent: child21212,
-        text:{
-            title: "Sindhu, Janardhana"
-        },
-        image: "./images/I071993.jpg"
-    },
-    child2121221 = {
-        parent: child212122,
-        text:{
-            title: "Mangkhankhual, Hangshing"
-        },
-        image: "./images/I329854.jpg"
-    },
-    child21212211 = {
-        parent: child2121221,
-        text:{
-            title: "Aashka, Shah"
-        },
-        image: "./images/I324332.jpg"
-    },
-    child2121222 = {
-        parent: child212122,
-        text:{
-            title: "Preethi, Ramamourthy"
-        },
-        image: "./images/I331397.jpg"
-    },
-    child21212221 = {
-        parent: child2121222,
-        text:{
-            title: "Vighneswaran, CE"
-        },
-        image: "./images/I049143.jpg"
-    },
-    child21212222 = {
-        parent: child2121222,
-        text:{
-            title: "Madhu, GC"
-        },
-        image: "./images/I049670.jpg"
-    },
-    child2121211 = {
-        parent: child212121,
-        text:{
-            title: "Sowmya, BG"
-        },
-        image: "./images/I311155.jpg"
-    },
-    child21212111 = {
-        parent: child2121211,
-        text:{
-            title: "Abhishek, P.G."
-        },
-        image: "./images/I311001.jpg"
-    },
-    child21212112 = {
-        parent: child2121211,
-        text:{
-            title: "Nikhil, Hirve"
-        },
-        image: "./images/I331388.jpg"
-    },
-    child2121212 = {
-        parent: child212121,
-        text:{
-            title: "Rimi, DE"
-        },
-        image: "./images/I311155.jpg"
-    },
-    child21212121 = {
-        parent: child2121212,
-        text:{
-            title: "Pavan, Chittanpalli Vasudevan"
-        },
-        image: "./images/I032875.jpg"
-    },
-    child212121211 = {
-        parent: child21212121,
-        text:{
-            title: "Karthik, M.K."
-        },
-        image: "./images/I032429.jpg"
-    },
-    child212121212 = {
-        parent: child21212121,
-        text:{
-            title: "Shwetha Monappa, Nairy"
-        },
-        image: "./images/I062039.jpg"
-    },
-    child21212122 = {
-        parent: child2121212,
-        text:{
-            title: "Kanhu, Ranjan Padhi"
-        },
-        image: "./images/I052877.jpg"
-    },
-    chart_collapse_config = [config_collapse, mainParent, child1, child2,
-        child11, child12,
-        child21, child22,
-        child111, child112,
-        child211, child212,
-        child221, child222,
-        child2111, child2112,
-        child21111, child21112,
-        child211111, child211112,
-        child2111121, child2111122,
-        child2221, child2222,
-        child21121, child21122,
-        child211211, child211212,
-        child2121, child2122,
-        child21211, child21212,
-        child212121, child212122,
-        child2121221, child2121222,
-        child21212211,
-        child21212221, child21212222,
-        child2121211, child2121212,
-        child212121211, child212121212,
-        child21212111, child21212112,
-        child21212121, child21212122,
-        child21221, child21222,
-        child212211, child212212,
-        child2122121, child2122122,
-        child212221, child212222,
-        child2122211, child2122212,
-        child2122222, child2122221
     ];
