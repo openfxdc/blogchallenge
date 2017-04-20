@@ -365,7 +365,7 @@ var config_tree = {
         parent: child2121,
         text:{
             name: "Vigneshwari, Sambandan",
-            title: "Steps to Create \r\n UI Project Project Portal "
+            title: "Types of navigation in FLP"
         },
         image: "./images/I332724.jpg"
     },
@@ -421,10 +421,11 @@ var config_tree = {
         image: "./images/I331397.jpg"
     },
     child21212221 = {
+        HTMLclass: "green",
         parent: child2121222,
         text:{
             name: "Vighneswaran, CE",
-            title: "Started Writing Blog"
+            title: "Steps to Create \r\n UI Project Project Portal "
         },
         image: "./images/I049143.jpg"
     },
@@ -488,10 +489,11 @@ var config_tree = {
         image: "./images/I032429.jpg"
     },
     child212121212 = {
+        HTMLclass:"green",
         parent: child21212121,
         text:{
             name: "Shwetha Monappa, Nairy",
-            title: "Started Writing Blog"
+            title: " What is the best delivery model \r\n for a unit that works on \r\n Apps for Cloud "
         },
         image: "./images/I062039.jpg"
     },
@@ -999,5 +1001,3 @@ var config_collapse = {
         child2122211, child2122212,
         child2122222, child2122221
     ];
-/*connector not updated */    
-var config_connector={container:"#connector-data",levelSeparation:45,rootOrientation:"WEST",nodeAlign:"BOTTOM",connectors:{type:"step",style:{"stroke-width":2}},node:{HTMLclass:"big-commpany"}},mainParent={HTMLclass:"green-bottom50.jpg",text:{name:"Amit Mishra",title:"Started Writing Blog"}},child1={parent:mainParent,pseudo:!0,connectors:{style:{stroke:"#00CE67.jpg"}},text:{name:"Rohit Negi",title:"Started Writing Blog"}},child2={parent:mainParent,pseudo:!0,connectors:{style:{stroke:"#00CE67.jpg"}},text:{name:"Shashank, Kulshrestha",title:"Started Writing Blog"}},child11={parent:child1,text:{name:"Jayendra kartheek, Garnimetta",title:"Started Writing Blog"}},child12={parent:child1,text:{name:"Sudhanshu, Yadav",title:"Started Writing Blog"}},child21={parent:child2,text:{name:"Anurag",title:"Started Writing Blog"}},child22={parent:child2,text:{name:"Achint Kumar, Rathor",title:"Started Writing Blog"}},child111={parent:child11,text:{name:"Sreejith, Mohan Menon",title:"Started Writing Blog"}},child112={parent:child11,text:{name:"Thejes, A.G",title:"Started Writing Blog"}},child211={parent:child21,text:{name:"Sameer, Menon",title:"Started Writing Blog"}},child212={parent:child21,text:{name:"Kriti, Srivastava",title:"Started Writing Blog"}},child221={parent:child22,text:{name:"Vipin, Shivashankaran",title:"Started Writing Blog"}},child222={parent:child22,text:{name:"Kavya, Jampani",title:"Started Writing Blog"}},child2111={parent:child211,text:{name:"Pramod, Indiresh",title:"Started Writing Blog"}},child2112={parent:child211,text:{name:"Priya, Powar",title:"Started Writing Blog"}},child21111={parent:child2111,text:{name:"Abhiram, Ravikumar",title:"Started Writing Blog"}},child21112={parent:child2111,text:{name:"Gouri, Shah",title:"Started Writing Blog"}},child211111={parent:child21111,text:{name:"Debasish, Panda",title:"Started Writing Blog"}},child211112={parent:child21111,text:{name:"Mahesh, Gopalan",title:"Started Writing Blog"}},child2111121={parent:child211112,text:{name:"Samyak, Jain",title:"Started Writing Blog"}},child2111122={parent:child211112,text:{name:"Gagan, K",title:"Started Writing Blog"}},child2221={parent:child222,text:{name:"Sourabh, Kulkarni",title:"Started Writing Blog"}},child2222={parent:child222,text:{name:"Vinayak Nath, Singh",title:"Started Writing Blog"}},child21121={parent:child2112,text:{name:"Kulkarni, Shruti",title:"Started Writing Blog"}},child21122={parent:child2112,text:{name:"Agarwal, Vaibhav",title:"Started Writing Blog"}},child211211={parent:child21121,text:{name:"Shalini, Jha",title:"Started Writing Blog"}},child211212={parent:child21121,text:{name:"Shweta, Johari",title:"Started Writing Blog"}},child2121={parent:child212,text:{name:"Jemma, Vince",title:"Started Writing Blog"}},child2122={parent:child212,text:{name:"Rishabh, Gour",title:"Started Writing Blog"}},child21211={parent:child2121,text:{name:"Vigneshwari, Sambandan",title:"Started Writing Blog"}},child21212={parent:child2121,text:{name:"Anagha, Ravinarayan",title:"Started Writing Blog"}};chart_connector_config=[config_connector,mainParent,child1,child2,child11,child12];
