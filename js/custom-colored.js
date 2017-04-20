@@ -275,7 +275,7 @@ var config_tree = {
         image: "./images/I331594.jpg"
     },
     child212212 = {
-        HTMLclass:"green-bottom50",
+        HTMLclass:"green",
         parent: child21221,
         text:{
             name: "Alik, Garai",
@@ -284,10 +284,11 @@ var config_tree = {
         image: "./images/I332308.jpg"
     },
     child2122121 = {
+        HTMLclass : "green",
         parent: child212212,
         text:{
             name: "Shivakumar",
-            title: "Started Writing Blog"
+            title: "How to create Analytical View"
         },
         image: "./images/I329330.jpg"
     },
