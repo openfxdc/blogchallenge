@@ -47,7 +47,7 @@ var config_tree = {
         image: "./images/I331657.jpg"
     },
     child11 = {
-        HTMLclass: 'green-bottom50',
+        HTMLclass: 'green',
         parent: child1,
         text:{
             name: "Jayendra kartheek, Garnimetta",
@@ -95,10 +95,15 @@ var config_tree = {
         image: "./images/I331047.jpg"
     },
     child111 = {
+        HTMLclass: "green",
         parent: child11,
         text:{
             name: "Sreejith, Mohan Menon",
-            title: "Started Writing Blog"
+            contact: { 
+                val: "Developer OPS",
+                href: "https://jam4.sapjam.com/groups/xspW69TpSt2bMffMUFAnjy/documents/beBvh5cOEdEq844f3Xi7ZA/",
+                target: "_blank"
+            }
         },
         image: "./images/I043373.jpg"
     },
