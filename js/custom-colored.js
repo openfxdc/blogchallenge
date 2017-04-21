@@ -121,7 +121,7 @@ var config_tree = {
         image: "./images/I060438.jpg"
     },
     child211 = {
-        HTMLclass: 'green-bottom50',
+        HTMLclass: 'green',
         parent: child21,
         text:{
             name: "Sameer, Menon",
@@ -183,10 +183,17 @@ var config_tree = {
     },
 
     child2112 = {
+        HTMLclass: "green-top50",
         parent: child211,
         text:{
             name: "Priya, Powar",
-            title: "Started Writing Blog"
+            title: "Started Writing Blog",
+            contact: { 
+                val: "Steps to Implement \r\n non-standard UI elements \r\n using ABAP and extensions",
+                href: "https://jam4.sapjam.com/profile/UkXlkP7ErUirpey2LZTjoX/documents/UpdXdJr5XvLptAGBJehb88",
+                target: "_blank"
+            }
+             
         },
         image: "./images/I331407.jpg"
     },
@@ -421,10 +428,15 @@ var config_tree = {
         image: "./images/I331399.jpg"
     },
     child212222 = {
+        HTMLclass:"green-top50",
         parent: child212221,
         text:{
             name: "Narendran, N.V",
-            title: "Started Writing Blog"
+            contact: { 
+                val: "Leveraging more of ABAP CDS",
+                href: "https://jam4.sapjam.com/profile/NZoAge5QtlhMjhizAhu2fN/documents/m94BpJ2nnnDpsMCaMZSca5",
+                target: "_blank"
+            }
         },
         image: "./images/I331181.jpg"
     },
