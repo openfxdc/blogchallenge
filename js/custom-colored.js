@@ -349,11 +349,15 @@ var config_tree = {
         image: "./images/I331594.jpg"
     },
     child212212 = {
-        HTMLclass:"green-bottom50",
+        HTMLclass:"green",
         parent: child21221,
         text:{
             name: "Alik, Garai",
-            title: "Started Writing Blog"
+            contact: { 
+                val: "Extending Applications",
+                href: "https://jam4.sapjam.com/profile/BUEFvqDE5AbTF19Xn3JnAq/documents/oDzpsZU0Iu4DH2fkgTYPUf",
+                target: "_blank"
+            }
         },
         image: "./images/I332308.jpg"
     },
@@ -520,11 +524,15 @@ var config_tree = {
         image: "./images/I324332.jpg"
     },
     child2121222 = {
-        HTMLclass : "green-bottom50",
+        HTMLclass : "green",
         parent: child212122,
         text:{
             name: "Preethi, Ramamourthy",
-            title: "Started Writing Blog"
+            contact: { 
+                val: "Authorization testing in cloud system",
+                href: "https://jam4.sapjam.com/profile/bSwvd4hgwsuneFsC91f122/documents/GtO9esUL5wruqzP2XZyITj",
+                target: "_blank"
+            }
         },
         image: "./images/I331397.jpg"
     },
@@ -533,7 +541,6 @@ var config_tree = {
         parent: child2121222,
         text:{
             name: "Vighneswaran, CE",
-            title: "",
             contact: { 
                 val: "Steps to Create \r\n UI Project Project Portal",
                 href: "https://jam4.sapjam.com/profile/2frAMd61QZnYsJWIywR6EP/documents/qrOS8S3q0oZYxtCSlYjDEH",
@@ -589,7 +596,7 @@ var config_tree = {
         image: "./images/I311155.jpg"
     },
     child21212121 = {
-        HTMLclass:"green-top50",
+        HTMLclass:"green",
         parent: child2121212,
         text:{
             name: "Pavan, Chittanpalli Vasudevan",
@@ -602,10 +609,16 @@ var config_tree = {
         image: "./images/I032875.jpg"
     },
     child212121211 = {
+        HTMLclass:"green",
         parent: child21212121,
         text:{
-            name: "Karthik, M.K.",
-            title: "Started Writing Blog"
+            name: "Karthik, M.K.", 
+            contact: { 
+                val: "An Overview on Digital Core, \r\n the need & SAP's offering",
+                href: "https://jam4.sapjam.com/profile/2a0Srzz6vfERufI8lDuVmW/documents/ydYf2hcv9lGDZ1yloULWYT",
+                target: "_blank"
+            }
+            
         },
         image: "./images/I032429.jpg"
     },
