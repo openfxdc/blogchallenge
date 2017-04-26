@@ -331,7 +331,7 @@ var config_tree = {
         text:{
             name: "Amitha, Srinivasan",
             contact: { 
-                val: "BOPF",
+                val: "Basics of BOPF and \r\n Steps to Create BOPF Object",
                 href: "https://jam4.sapjam.com/groups/xspW69TpSt2bMffMUFAnjy/documents/NjKuJ5hN3UEvNW35hFTjtG",
                 target: "_blank"
             }
