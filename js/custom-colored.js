@@ -187,7 +187,6 @@ var config_tree = {
         parent: child211,
         text:{
             name: "Priya, Powar",
-            title: "Started Writing Blog",
             contact: { 
                 val: "Steps to Implement \r\n non-standard UI elements \r\n using ABAP and extensions",
                 href: "https://jam4.sapjam.com/profile/UkXlkP7ErUirpey2LZTjoX/documents/UpdXdJr5XvLptAGBJehb88",
