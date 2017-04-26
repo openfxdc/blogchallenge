@@ -32,11 +32,11 @@ body { background: #fff; }
 }
 
 .green-top50{
-    background: linear-gradient(180deg, #228B22 50%, #ffffff 50%);
+    background: linear-gradient(180deg, #228B22 50%, #FF5733 50%);
 
 }
 .green-bottom50{
-    background: linear-gradient(180deg, #ffffff 50%, #228B22 50%);
+    background: linear-gradient(180deg, #FF5733 50%, #228B22 50%);
 
 }
 
