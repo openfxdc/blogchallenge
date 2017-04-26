@@ -326,11 +326,15 @@ var config_tree = {
         image: "./images/I330796.jpg"
     },
     child21221 = {
-         HTMLclass: 'green-bottom50',
+         HTMLclass: 'green',
         parent: child2122,
         text:{
             name: "Amitha, Srinivasan",
-            title: "Started Writing Blog"
+            contact: { 
+                val: "BOPF",
+                href: "https://jam4.sapjam.com/groups/xspW69TpSt2bMffMUFAnjy/documents/NjKuJ5hN3UEvNW35hFTjtG",
+                target: "_blank"
+            }
         },
         image: "./images/I304332.jpg"
     },
