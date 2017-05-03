@@ -585,7 +585,7 @@ var config_tree = {
         text:{
             name: "Soumya, BG",
             contact: { 
-                val: "SAPUI5 Component Concept \r\n and Fiori AppDescriptor"
+                val: "SAPUI5 Component Concept \r\n and Fiori AppDescriptor",
                 href: "https://jam4.sapjam.com/groups/xspW69TpSt2bMffMUFAnjy/documents/ZTxOUoAzStS1GvqE2PjPgS/",
                 target: "_blank"
             }
