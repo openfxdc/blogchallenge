@@ -252,10 +252,15 @@ var config_tree = {
         image: "./images/I331412.jpg"
     },
     child2221 = {
+		HTMLclass: "green",
         parent: child222,
         text:{
             name: "Sourabh, Kulkarni",
-            title: "Started Writing Blog"
+            contact: { 
+                val: "Basics of UI unit testing and how to configure OPA in ST",
+                href: "https://jam4.sapjam.com/profile/547fpDQCvVdNJ9uk4scjk7/documents/V9xfMCI2EALE1toivk534q",
+                target: "_blank"
+            }
         },
         image: "./images/I331582.jpg"
     },
@@ -297,10 +302,15 @@ var config_tree = {
         image: "./images/I069231.jpg"
     },
     child211212 = {
+		HTMLclass: "green",
         parent: child21121,
         text:{
             name: "Shweta, Johari",
-            title: "Started Writing Blog"
+            contact: { 
+                val: "Architecture of \r\n Value helps in S4HANA",
+                href: "https://jam4.sapjam.com/groups/xspW69TpSt2bMffMUFAnjy/documents/SmPA7vzvgFMxgQ7PsE0DFk",
+                target: "_blank"
+            }
         },
         image: "./images/I332758.jpg"
     },
@@ -404,11 +414,15 @@ var config_tree = {
         image: "./images/I330821.jpg"
     },
     child212221 = {
-        HTMLclass : "green-bottom50",
+        HTMLclass : "green",
         parent: child21222,
         text:{
             name: "Shiv Shankar, S.S.V",
-            title: "Started Writing Blog"
+            contact: { 
+                val: "Basics of Developing an \r\n Overview Page using OVP WEB-IDE plugin",
+                href: "https://jam4.sapjam.com/groups/xspW69TpSt2bMffMUFAnjy/documents/zf6TC7d7ji5UbQ5BsoKm1G/slide_viewer",
+                target: "_blank"
+            }
         },
         image: "./images/I330820.jpg"
     },
@@ -566,10 +580,15 @@ var config_tree = {
         image: "./images/I049670.jpg"
     },
     child2121211 = {
+		HTMLclass: "green-top50",
         parent: child212121,
         text:{
-            name: "Sowmya, BG",
-            title: "Started Writing Blog"
+            name: "Soumya, BG",
+            contact: { 
+                val: "SAPUI5 Component Concept \r\n and Fiori AppDescriptor"
+                href: "https://jam4.sapjam.com/groups/xspW69TpSt2bMffMUFAnjy/documents/ZTxOUoAzStS1GvqE2PjPgS/",
+                target: "_blank"
+            }
         },
         image: "./images/I311155.jpg"
     },
